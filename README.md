@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJs, Express**
 
-- 💬 Ask me about **Java,C++,JavaScript**
+- 💬 Ask me about **Java,C++,Python**
 
 - 📫 How to reach me **sachinsangal1512003@gmail.com**
 
